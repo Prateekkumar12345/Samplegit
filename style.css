@@ -1,0 +1,31 @@
+.hello{
+    font-size: large;
+    background-origin: padding-box;
+    background-color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5cm;
+}
+.hii{
+    font-size: large;
+    background-origin: padding-box;
+    background-color: rgb(182, 238, 14);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5cm;
+}
+#hey{
+    font-size: larger;
+    background-origin: padding-box;
+    background-color: rgb(165, 139, 241);
+    font-family: 'Courier New', Courier, monospace;
+    border-radius: 5cm;
+    padding-left: 4cm;
+    padding-right: 4cm;
+}
+div{
+    background-color: aquamarine;
+    width: 586px;
+    height:200px;
+    align-items: center;
+    margin-left: 330px;
+    /* padding-right: 20px; */
+}
