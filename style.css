@@ -1,7 +1,7 @@
 .hello{
     font-size: large;
     background-origin: padding-box;
-    background-color: brown;
+    background-color: rgb(42, 165, 81);
     font-family: 'Courier New', Courier, monospace;
     border-radius: 5cm;
 }
@@ -10,7 +10,7 @@
     background-origin: padding-box;
     background-color: rgb(182, 238, 14);
     font-family: 'Courier New', Courier, monospace;
-    border-radius: 5cm;
+    border-radius: 5px;
 }
 #hey{
     font-size: larger;
